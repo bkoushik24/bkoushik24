@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML & NLP-based real-time applications  <br>🤝 I’m looking to collaborate on Machine Learning and Natural Language Processing projects  <br>🧠 I’m looking for help with MLOps, model optimization & scalable AI systems  <br>🌱 I’m currently learning GenerativeAI,Machine Learning,Natural Language Processing and LLMs <br>💬 Ask me about Python, Machine Learning, Data Science & NLP  <br>⚡ Fun fact: I turn real-world problems into AI-powered solutions 🚀
+🔭 I’m currently working on AI/ML & NLP-based real-time applications  <br>🤝 I’m looking to collaborate on Machine Learning and Natural Language Processing projects  <br>🧠 I’m looking for help with MLOps, model optimization & scalable AI systems  <br>🌱 I’m currently learning GenerativeAI, Machine Learning, Natural Language Processing and LLMs <br>💬 Ask me about Python, Machine Learning, Data Science & NLP  <br>⚡ Fun fact: I turn real-world problems into AI-powered solutions 🚀
 
 
 ## 🌐 Socials:

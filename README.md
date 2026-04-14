@@ -42,12 +42,6 @@
 
 ---
 
-## 🌐 Socials
-- LinkedIn: https://linkedin.com/
-- Email: your-email@gmail.com
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -119,7 +113,7 @@
 
 <p align="center">
   <i>"Code is the closest thing to magic that actually works."</i>
-</p>## Hi there 👋
+</p>
 
 <!--
 **bkoushik24/bkoushik24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

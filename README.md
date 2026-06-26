@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koushik Bagade</h1>
-<h3 align="center">AIML Engineer | Data Analyst | Data Scientist</h3>
+<h3 align="center">AIML Engineer | Gen AI Engineer| Data Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/koushik-bagade-481914216/">
